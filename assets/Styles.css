@@ -1,0 +1,15 @@
+/* Couleur de fonc */
+FeelM {
+    /* Couleur de Fond */
+    background-color: #13172F; 
+    /* Boutons rouge */
+    color : #DD2E44;
+    /* Boutons Like, Streeming */
+    color: #3DB39E;
+    /* Boutons Whishlist et contour MOOD checked */
+    color: #E5C92F;
+    /* Boutons Mood */
+    color : #1C213E;
+    /* 2 ème couleur primaire boutons retour et inactif */
+    color : #3D4A98;
+}
